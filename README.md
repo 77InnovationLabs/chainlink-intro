@@ -17,11 +17,11 @@
 
 <div align="center">
 <h2> 
-  Chainlink Intro
+  Chainlink Intermediário
 </h2>
 
 <h1>
-  Curso intermediário de introdução as soluções Chainlink.
+  Introdução as soluções Chainlink.
 </h1>
 
 <p align="center"><strong> 🚀 Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
