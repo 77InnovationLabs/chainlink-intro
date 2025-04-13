@@ -38,7 +38,7 @@
 
 <br>
 
-Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https:// ).
+Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https://github.com/77EducationalLabs/chainlink-intro/discussions/1).
 
 <br>
 <br>
