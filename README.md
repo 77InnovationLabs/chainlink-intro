@@ -21,7 +21,7 @@
 </h2>
 
 <h1>
-  Introdução as soluções Chainlink.
+  Introdução às soluções Chainlink
 </h1>
 
 <p align="center"><strong> 🚀 Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
