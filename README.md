@@ -24,24 +24,24 @@
   Introdução às soluções Chainlink
 </h1>
 
-<p align="center"><strong> 🚀 Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
+<p><strong> 🚀 Aprenda a desenvolver contratos inteligentes e seja parte da mudança!</strong></p>
+
+<p>Encontrou algum problema ou tem alguma dúvida?</p>
+
+<p>
+
+  Compartilhe conosco na aba [discussões](https://github.com/77EducationalLabs/chainlink-intro/discussions).
+
+</p>
 
 </div>
 
 <br/>
 
-<br>
-
-Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https://github.com/77EducationalLabs/chainlink-intro/discussions).
-
-<br>
-<br>
-
-# Sumário
-
 > 👋 Bem-vindo ao repositório do bootcamp Winners' Weekend! Aqui você encontrará o conteúdo abordado nas aulas, bem como conteúdo de apoio para reforço de aprendizado e links pertinentes.
 <br>
 
+# Sumário
 <details>
 
 <summary>Links Úteis</summary>
