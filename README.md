@@ -17,7 +17,7 @@
 
 <div align="center">
 <h2> 
-  Chainlink Intermediário
+  Curso Intermediário
 </h2>
 
 <h1>
@@ -30,22 +30,16 @@
 
 <br/>
 
-<!-- 📚 Nossos Cursos:
-
-- [Introdução ao Solidity]()
-- [Solidity Intermediário & Foundry]()
-- [Solidity Avançado & Foundry]() -->
-
 <br>
 
-Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https://github.com/77EducationalLabs/chainlink-intro/discussions/1).
+Encontrou algum problema ou tem alguma dúvida? Compartilhe conosco na aba [discussões](https://github.com/77EducationalLabs/chainlink-intro/discussions).
 
 <br>
 <br>
 
 # Sumário
 
-> 👋 Bem-vindo ao repositório do bootcamp Weekend Winners! Aqui você encontrará o conteúdo abordado nas aulas, bem como conteúdo de apoio para reforço de aprendizado e links pertinentes.
+> 👋 Bem-vindo ao repositório do bootcamp Winners' Weekend! Aqui você encontrará o conteúdo abordado nas aulas, bem como conteúdo de apoio para reforço de aprendizado e links pertinentes.
 <br>
 
 <details>
