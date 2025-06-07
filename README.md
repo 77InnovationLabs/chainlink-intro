@@ -82,7 +82,7 @@
 </ol>
 <br>
 
-> [Chainlink Automation](https://github.com/77EducationalLabs/cl-automation)
+> [Chainlink Automation](https://github.com/i3arba/cl-automation-ww)
 
 </details>
 
@@ -98,7 +98,7 @@
 </ol>
 <br>
 
-> [Chainlink CCIP](https://github.com/77EducationalLabs/cl-ccip)
+> [Chainlink CCIP](https://github.com/i3arba/cl-ccip-ww)
 
 </details>
 
@@ -113,7 +113,7 @@
 </ol>
 <br>
 
-> [Chainlink Data Feeds](https://github.com/77EducationalLabs/cl-feeds)
+> [Chainlink Data Feeds](https://github.com/i3arba/cl-feeds-ww)
 
 </details>
 
@@ -127,7 +127,7 @@
 </ol>
 <br>
 
-> [Chainlink Functions](https://github.com/77EducationalLabs/cl-functions)
+> [Chainlink Functions](https://github.com/i3arba/cl-functions-ww)
 
 </details>
 
@@ -141,7 +141,7 @@
 </ol>
 <br>
 
-> [Chainlink VRF](https://github.com/77EducationalLabs/cl-vrf)
+> [Chainlink VRF](https://github.com/i3arba/cl-vrf-ww)
 
 </details>
 
